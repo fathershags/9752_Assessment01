@@ -1,0 +1,7 @@
+G:\2019\ICP\u3201781_9752_Assessment1\Activity04\bin\Debug\Activity04.exe.config
+G:\2019\ICP\u3201781_9752_Assessment1\Activity04\bin\Debug\Activity04.exe
+G:\2019\ICP\u3201781_9752_Assessment1\Activity04\bin\Debug\Activity04.pdb
+G:\2019\ICP\u3201781_9752_Assessment1\Activity04\obj\Debug\Activity04.csprojAssemblyReference.cache
+G:\2019\ICP\u3201781_9752_Assessment1\Activity04\obj\Debug\Activity04.csproj.CoreCompileInputs.cache
+G:\2019\ICP\u3201781_9752_Assessment1\Activity04\obj\Debug\Activity04.exe
+G:\2019\ICP\u3201781_9752_Assessment1\Activity04\obj\Debug\Activity04.pdb
